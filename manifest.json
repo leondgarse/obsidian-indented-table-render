@@ -1,0 +1,10 @@
+{
+  "id": "indented-table-render",
+  "name": "Indented Table Render",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Render indented pipe tables, nested in list items or under headings, in Live Preview and Reading view.",
+  "author": "leondgarse",
+  "authorUrl": "https://github.com/leondgarse",
+  "isDesktopOnly": false
+}
